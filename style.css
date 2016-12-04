@@ -192,10 +192,11 @@ a {
 	max-width: 300px;
 	max-height: 200px;
 	margin-left: 10px;
+	margin-top: 30px;
 }
 #body-container-right p {
 	float: left;
-	font-size: 12px;
+	font-size: 16px;
 	position: relative;
 	left: 12px;
 	margin-left: 5px;
@@ -216,7 +217,9 @@ a {
 }
 #more-container-top {
 	float: left;
-	width: 100%
+	width: 100%;
+	left: 10px;
+	position: relative;
 }
 #more-container-top p {
 	display: block;
@@ -237,6 +240,8 @@ a {
 	float: left;
 	width: 100%;
 	margin-top: 10px;
+	position: relative;
+	left: 10px;
 }
 #more-container-bottom p {
 	display: block;
